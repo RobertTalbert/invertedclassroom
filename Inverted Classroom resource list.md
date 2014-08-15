@@ -47,7 +47,7 @@ DOI: 10.1080/10511970.2014.883457
     * [Github repository of other materials](https://github.com/RobertTalbert/calculus)
 + Materials for inverted transition-to-proof SWS course at GVSU (MTH 210)
     * [YouTube playlist](http://youtu.be/UuETUEJo0rk?list=PL2419488168AE7001)
-    * [Github repository of other materials]((https://github.com/RobertTalbert/proof)
+    * [Github repository of other materials](https://github.com/RobertTalbert/proof)
 
 ##Magazine articles and blog posts
 

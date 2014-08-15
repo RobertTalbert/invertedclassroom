@@ -8,7 +8,7 @@ IMO the top five items from this list for those just learning about the inverted
 
 + [The flipped classroom in 60 seconds](http://www.youtube.com/watch?feature=player_embedded&v=r2b7GeuqkPc) (1:16)
     * Because it's short, sweet, and correct. 
-+ Lage, M., Platt G., and Treglia M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. _Journal of Economic Education_, 31 (1): 30–43. 
++ Lage, M., Platt G., and Treglia M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. _Journal of Economic Education_, 31 (1): 30–43. http://www.jstor.org/pss/1183338 
     * This is the original research paper that coined the term "inverted classroom" and that first investigated the inverted classroom at the university level. 
 + [What is the flipped classroom?](http://ctl.utexas.edu/ctl/node/425) (University of Texas)
     * Short PDF that contains a lot of basic information about the inverted classroom for newbies. 

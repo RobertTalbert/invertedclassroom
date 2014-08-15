@@ -28,6 +28,7 @@ DOI: 10.1080/10511970.2014.883457
 
 ##Magazine articles and blog posts
 
++ Jon Bergmann has a huge list of articles and blog posts about flipped learning here: http://jonbergmann.com/newsroom/articles-blogs-about-flipped-learning/
 + Posts by other authors besides Talbert
     * [Blending and flipping modern architecture](http://chronicle.com/blognetwork/castingoutnines/2014/06/23/guest-post-blending-and-flipping-modern-architecture/) (guest post at Casting Out Nines by Jeff Schramm, 23 June 2014)
 + CO9's series on the inverted calculus (MTH 201) course
